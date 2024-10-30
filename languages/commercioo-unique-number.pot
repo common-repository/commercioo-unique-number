@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: commercioo-unique-number\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-23 05:33+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/class-commercioo-unique-number-admin.php:119
+#, php-format
+msgid "requires %s. Please activate it to continue."
+msgstr ""
+
+#: admin/class-commercioo-unique-number-admin.php:121
+#, php-format
+msgid "requires %s. Please install it to continue."
+msgstr ""
+
+#: includes/customizer/commercioo-unique-number.php:69
+msgid "Unique Number Settings"
+msgstr ""
+
+#: includes/customizer/commercioo-unique-number.php:83
+msgid "Increase / Decrease"
+msgstr ""
+
+#: includes/customizer/commercioo-unique-number.php:86
+msgid ""
+"Increase = Add a unique number to the total price, Decrease = Decrease the "
+"total price with a unique number"
+msgstr ""
+
+#: includes/customizer/commercioo-unique-number.php:89
+msgid "Increase"
+msgstr ""
+
+#: includes/customizer/commercioo-unique-number.php:90
+msgid "Decrease"
+msgstr ""
+
+#: includes/customizer/commercioo-unique-number.php:102
+msgid "Active / Inactive"
+msgstr ""
+
+#: includes/customizer/commercioo-unique-number.php:105
+msgid "Active = Show the unique 3 digits number"
+msgstr ""
+
+#: includes/customizer/commercioo-unique-number.php:108
+msgid "Active"
+msgstr ""
+
+#: includes/customizer/commercioo-unique-number.php:109
+msgid "Inactive"
+msgstr ""
+
+#: includes/customizer/commercioo-unique-number.php:121
+msgid "Unique Number Label"
+msgstr ""
